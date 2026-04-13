@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nishant! 👋
 
-<!--
-**Nishantjangir21/Nishantjangir21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student at IIT Madras (BS in Data Science)
+Focusing on Data Science, AI, and building technical foundations at IIT Madras.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 📊 GitHub Stats
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishantjangir21&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishantjangir21&layout=compact&theme=radical)
+
+---
+
+> "Focusing on logic and building long-term value through code."
