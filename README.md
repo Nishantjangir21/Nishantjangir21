@@ -1,7 +1,7 @@
 # Hi, I'm Nishant! 👋
 
 ### 🎓 Right now studying (BS in Data Science)
-Focusing on Data Science, AI, and building technical foundations at IIT Madras.
+Focusing on Data Science, AI, and building technical foundations.
 
 ---
 
